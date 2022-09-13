@@ -1,0 +1,14 @@
+{
+  "name": "suitecloud-project",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2022.2.3",
+    "@oracle/suitecloud-unit-testing": "^1.2.0",
+    "jest": "^27.4.7",
+    "tsc": "^2.0.4",
+    "typescript": "^4.8.3"
+  }
+}
