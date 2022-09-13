@@ -31,6 +31,10 @@ npm install -g @oracle/suitecloud-cli
 * TSC (to compile TypeScript to JS)
 * Jest (to unit test)
 
+### Architecture
+
+You can use this reference of Architecture at [NetSuite template](https://miro.com/app/board/o9J_lAAZ2v4=/?share_link_id=73863609157), and understand the proccess to use.
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
